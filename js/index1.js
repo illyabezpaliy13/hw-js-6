@@ -47,8 +47,6 @@
 // const messagePayment =  `Оформляємо замовлення на суму ${payment} зі знижкою ${discount}%`;
 // console.log(messagePayment);
 
-
-let balance = 10000;
-const payment = 2000
-message = balsnce > 0 ? "" : "";
-console.log(message)
+if ("0") {
+    console.log( 'Привіт' );   
+}
